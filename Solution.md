@@ -206,7 +206,7 @@ Version         : 8.0.33 (or latest)
 Templates       : Free Tier
 Settings        : 
     - DB instance identifier : ondia-capstone-rds
-    - Master username        : `admin` (must be same as the value of `/<yourname>/capstone/username`  )
+    - Master username        : `admin` (must be same as the value of `/yourname/capstone/username`  )
     - Password               : `Ondia123450*` (must be same as the value of `/<yourname>/capstone/password`  )
 DB Instance Class            : Burstable classes (includes t classes) ---> db.t2.micro
 Storage                      : 20 GB and enable autoscaling(up to 40GB)
